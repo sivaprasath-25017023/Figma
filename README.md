@@ -33,6 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
 page 1 :
 
 <!DOCTYPE html>
@@ -150,7 +151,7 @@ Registering</span></p>
 
 </body>
 </html>
-
+```
 ## OUTPUT:
 ![alt text](<Screenshot 2025-11-15 141609.png>)
 
